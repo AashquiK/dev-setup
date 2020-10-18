@@ -1885,6 +1885,8 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
 
 ### License
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 This repository contains a variety of content; some developed by Donne Martin, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
 The content developed by Donne Martin is distributed under the following license:
@@ -1904,3 +1906,4 @@ The content developed by Donne Martin is distributed under the following license
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
